@@ -1,55 +1,80 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.sfu.ca/~yza366/iat102" resolutions="1x,2x" timestamp="1535244506526">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.sfu.ca/~yza366/iat102" resolutions="1x,2x" timestamp="1535245121876">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="3794179745" ref="about-me:contact-me:index:current-projects"/>
-    <file name="nomq_preview_master_a-master.css" crc="3770931417" ref="about-me:contact-me:index:current-projects"/>
-    <file name="about-me.css" crc="499319536" ref="about-me"/>
-    <file name="nomq_about-me.css" crc="4075791851" ref="about-me"/>
-    <file name="contact-me.css" crc="376411642" ref="contact-me"/>
-    <file name="nomq_contact-me.css" crc="3840054367" ref="contact-me"/>
-    <file name="index.css" crc="4245590607" ref="index"/>
-    <file name="nomq_index.css" crc="76204287" ref="index"/>
-    <file name="current-projects.css" crc="4079891507" ref="current-projects"/>
-    <file name="nomq_current-projects.css" crc="3776272241" ref="current-projects"/>
+    <file name="master_a-master.css" crc="3869204061" ref="about-me:contact-me:index:resume:current-projects"/>
+    <file name="nomq_preview_master_a-master.css" crc="4195236763" ref="about-me:contact-me:index:resume:current-projects"/>
+    <file name="about-me.css" crc="471455485" ref="about-me"/>
+    <file name="nomq_about-me.css" crc="3888772158" ref="about-me"/>
+    <file name="contact-me.css" crc="207311730" ref="contact-me"/>
+    <file name="nomq_contact-me.css" crc="516195759" ref="contact-me"/>
+    <file name="index.css" crc="284357535" ref="index"/>
+    <file name="nomq_index.css" crc="4152214646" ref="index"/>
+    <file name="resume.css" crc="3900594369" ref="resume"/>
+    <file name="nomq_resume.css" crc="259091157" ref="resume"/>
+    <file name="current-projects.css" crc="103130487" ref="current-projects"/>
+    <file name="nomq_current-projects.css" crc="3858368744" ref="current-projects"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about-me:current-projects:contact-me"/>
-    <file name="museutils.js" crc="340535759" ref="index:about-me:current-projects:contact-me"/>
-    <file name="whatinput.js" crc="86476730" ref="index:about-me:current-projects:contact-me"/>
-    <file name="museconfig.js" crc="310584261" ref="index:about-me:current-projects:contact-me"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index:about-me:current-projects:contact-me"/>
-    <file name="jquery.musemenu.js" crc="510910590" ref="index:about-me:current-projects:contact-me"/>
-    <file name="webpro.js" crc="4059564322" ref="index:about-me:current-projects:contact-me"/>
-    <file name="form_check.php" crc="4020933626" ref="index"/>
-    <file name="form_throttle.php" crc="4259590256" ref="index"/>
-    <file name="form_process.php" crc="37464564" ref="index"/>
-    <file name="form-u12613.php" crc="3957341546" ref="index"/>
-    <file name="musewpdisclosure.js" crc="3883500470" ref="index:about-me:current-projects:contact-me"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:about-me:current-projects:contact-me"/>
-    <file name="jquery.museresponsive.js" crc="527716135" ref="index:about-me:current-projects:contact-me"/>
-    <file name="require.js" crc="7928878" ref="index:about-me:current-projects:contact-me"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about-me:current-projects:contact-me:resume"/>
+    <file name="museutils.js" crc="340535759" ref="index:about-me:current-projects:contact-me:resume"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about-me:current-projects:contact-me:resume"/>
+    <file name="museconfig.js" crc="310584261" ref="index:about-me:current-projects:contact-me:resume"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:about-me:current-projects:contact-me:resume"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:about-me:current-projects:contact-me:resume"/>
+    <file name="webpro.js" crc="4059564322" ref="index:about-me:current-projects:contact-me:resume"/>
+    <file name="musewpdisclosure.js" crc="3883500470" ref="index:about-me:current-projects:contact-me:resume"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about-me:current-projects:contact-me:resume"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:about-me:current-projects:contact-me:resume"/>
+    <file name="require.js" crc="7928878" ref="index:about-me:current-projects:contact-me:resume"/>
+    <file name="form_check.php" crc="4020933626" ref="contact-me"/>
+    <file name="form_throttle.php" crc="4259590256" ref="contact-me"/>
+    <file name="form_process.php" crc="37464564" ref="contact-me"/>
     <file name="form-u5952.php" crc="4149814846" ref="contact-me"/>
   </folder>
   <folder name="images">
-    <file name="u125-6.png" crc="502006674" ref="index:about-me:current-projects:contact-me"/>
-    <file name="u125-6_2x.png" crc="63919908" ref="index:about-me:current-projects:contact-me"/>
-    <file name="blank.gif" crc="4208392903" ref="index:about-me:current-projects:contact-me"/>
-    <file name="u143.png" crc="495519152" ref="index:about-me:current-projects:contact-me"/>
-    <file name="u143_2x.png" crc="3825478509" ref="index:about-me:current-projects:contact-me"/>
-    <file name="u143-a.png" crc="495519152" ref="index:about-me:current-projects:contact-me"/>
-    <file name="u143-a_2x.png" crc="3825478509" ref="index:about-me:current-projects:contact-me"/>
-    <file name="u199.png" crc="249360347" ref="index:about-me:current-projects:contact-me"/>
-    <file name="u199_2x.png" crc="4004760641" ref="index:about-me:current-projects:contact-me"/>
-    <file name="u199-a.png" crc="249360347" ref="index:about-me:current-projects:contact-me"/>
-    <file name="u199-a_2x.png" crc="4004760641" ref="index:about-me:current-projects:contact-me"/>
-    <file name="u223.png" crc="155426477" ref="index:about-me:current-projects:contact-me"/>
-    <file name="u223_2x.png" crc="3943481041" ref="index:about-me:current-projects:contact-me"/>
-    <file name="u223-a.png" crc="155426477" ref="index:about-me:current-projects:contact-me"/>
-    <file name="u223-a_2x.png" crc="3943481041" ref="index:about-me:current-projects:contact-me"/>
-    <file name="u285.png" crc="44149418" ref="index:about-me:current-projects:contact-me"/>
-    <file name="u285_2x.png" crc="4140448908" ref="index:about-me:current-projects:contact-me"/>
-    <file name="u285-a.png" crc="44149418" ref="index:about-me:current-projects:contact-me"/>
-    <file name="u285-a_2x.png" crc="4140448908" ref="index:about-me:current-projects:contact-me"/>
+    <file name="u125-6.png" crc="113237901" ref="index:about-me:current-projects:contact-me:resume"/>
+    <file name="u125-6_2x.png" crc="4269923495" ref="index:about-me:current-projects:contact-me:resume"/>
+    <file name="blank.gif" crc="4208392903" ref="index:about-me:current-projects:contact-me:resume"/>
+    <file name="u143.png" crc="4157943083" ref="index:about-me:current-projects:contact-me:resume"/>
+    <file name="u143_2x.png" crc="4168137052" ref="index:about-me:current-projects:contact-me:resume"/>
+    <file name="u143-r.png" crc="161710564" ref="index:about-me:current-projects:contact-me:resume"/>
+    <file name="u143-r_2x.png" crc="228364633" ref="index:about-me:current-projects:contact-me:resume"/>
+    <file name="u143-m.png" crc="4157943083" ref="index:about-me:current-projects:contact-me:resume"/>
+    <file name="u143-m_2x.png" crc="4168137052" ref="index:about-me:current-projects:contact-me:resume"/>
+    <file name="u143-a.png" crc="524702856" ref="index:about-me:current-projects:contact-me:resume"/>
+    <file name="u143-a_2x.png" crc="3834579810" ref="index:about-me:current-projects:contact-me:resume"/>
+    <file name="u199.png" crc="4074901437" ref="index:about-me:current-projects:contact-me:resume"/>
+    <file name="u199_2x.png" crc="314655138" ref="index:about-me:current-projects:contact-me:resume"/>
+    <file name="u199-r.png" crc="21461842" ref="index:about-me:current-projects:contact-me:resume"/>
+    <file name="u199-r_2x.png" crc="3764889937" ref="index:about-me:current-projects:contact-me:resume"/>
+    <file name="u199-m.png" crc="4074901437" ref="index:about-me:current-projects:contact-me:resume"/>
+    <file name="u199-m_2x.png" crc="314655138" ref="index:about-me:current-projects:contact-me:resume"/>
+    <file name="u199-a.png" crc="42771209" ref="index:about-me:current-projects:contact-me:resume"/>
+    <file name="u199-a_2x.png" crc="3986986225" ref="index:about-me:current-projects:contact-me:resume"/>
+    <file name="u223.png" crc="437768359" ref="index:about-me:current-projects:contact-me:resume"/>
+    <file name="u223_2x.png" crc="143433420" ref="index:about-me:current-projects:contact-me:resume"/>
+    <file name="u223-r.png" crc="448070164" ref="index:about-me:current-projects:contact-me:resume"/>
+    <file name="u223-r_2x.png" crc="4081797089" ref="index:about-me:current-projects:contact-me:resume"/>
+    <file name="u223-m.png" crc="437768359" ref="index:about-me:current-projects:contact-me:resume"/>
+    <file name="u223-m_2x.png" crc="143433420" ref="index:about-me:current-projects:contact-me:resume"/>
+    <file name="u223-a.png" crc="138085" ref="index:about-me:current-projects:contact-me:resume"/>
+    <file name="u223-a_2x.png" crc="86356997" ref="index:about-me:current-projects:contact-me:resume"/>
+    <file name="u285.png" crc="4041058626" ref="index:about-me:current-projects:contact-me:resume"/>
+    <file name="u285_2x.png" crc="3929728075" ref="index:about-me:current-projects:contact-me:resume"/>
+    <file name="u285-r.png" crc="231244342" ref="index:about-me:current-projects:contact-me:resume"/>
+    <file name="u285-r_2x.png" crc="223686061" ref="index:about-me:current-projects:contact-me:resume"/>
+    <file name="u285-m.png" crc="4041058626" ref="index:about-me:current-projects:contact-me:resume"/>
+    <file name="u285-m_2x.png" crc="3929728075" ref="index:about-me:current-projects:contact-me:resume"/>
+    <file name="u285-a.png" crc="384413487" ref="index:about-me:current-projects:contact-me:resume"/>
+    <file name="u285-a_2x.png" crc="3768713945" ref="index:about-me:current-projects:contact-me:resume"/>
+    <file name="u13170.png" crc="458872969" ref="index:about-me:current-projects:contact-me:resume"/>
+    <file name="u13170_2x.png" crc="376598272" ref="index:about-me:current-projects:contact-me:resume"/>
+    <file name="u13170-r.png" crc="440303278" ref="index:about-me:current-projects:contact-me:resume"/>
+    <file name="u13170-r_2x.png" crc="4046663913" ref="index:about-me:current-projects:contact-me:resume"/>
+    <file name="u13170-m.png" crc="458872969" ref="index:about-me:current-projects:contact-me:resume"/>
+    <file name="u13170-m_2x.png" crc="376598272" ref="index:about-me:current-projects:contact-me:resume"/>
+    <file name="u13170-a.png" crc="4178872183" ref="index:about-me:current-projects:contact-me:resume"/>
+    <file name="u13170-a_2x.png" crc="4081528071" ref="index:about-me:current-projects:contact-me:resume"/>
     <file name="mac-u1311-3.png" crc="398459004" ref="index"/>
     <file name="mac-u1311-3_2x.png" crc="3875712301" ref="index"/>
     <file name="finder-icon.png" crc="29870055" seo="true" ref="index">
@@ -72,10 +97,10 @@
     <file name="launchpad-icon_2x.png" crc="3811727260" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="unity71x71.png" crc="255718452" seo="true" ref="index">
+    <file name="unity.png" crc="255718452" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="unity71x71_2x.png" crc="4235499651" seo="true" ref="index">
+    <file name="unity_2x.png" crc="4235499651" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="virtualbox_logo.png" crc="187339866" seo="true" ref="index">
@@ -138,153 +163,36 @@
     <file name="python_2x.png" crc="4138562864" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u1323-6.png" crc="5439863" ref="index"/>
-    <file name="u1323-6_2x.png" crc="190971774" ref="index"/>
-    <file name="me.jpg" crc="4165322524" seo="true" ref="index">
+    <file name="u1323-6.png" crc="3778079359" ref="index"/>
+    <file name="u1323-6_2x.png" crc="132085822" ref="index"/>
+    <file name="u11710-4.png" crc="3764461195" ref="index"/>
+    <file name="u11710-4_2x.png" crc="384744966" ref="index"/>
+    <file name="u11711-4.png" crc="3915211139" ref="index"/>
+    <file name="u11711-4_2x.png" crc="3907615690" ref="index"/>
+    <file name="u11712-4.png" crc="190654897" ref="index"/>
+    <file name="u11712-4_2x.png" crc="4155015481" ref="index"/>
+    <file name="games94x95.png" crc="296148040" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+    </file>
+    <file name="app91x91.png" crc="4005202125" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+    </file>
+    <file name="web90x90.png" crc="276729360" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+    </file>
+    <file name="web90x90_2x.png" crc="4032639621" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1202-4.png" crc="240493832" ref="index:about-me:current-projects:contact-me:resume"/>
+    <file name="u1202-4_2x.png" crc="43136701" ref="index:about-me:current-projects:contact-me:resume"/>
+    <file name="github30x30.png" crc="4241390384" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="me_2x.jpg" crc="4273967414" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+    <file name="github30x30_2x.png" crc="4183807720" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="dsc_0854_meitu_28.jpg" crc="4193015728" seo="true" ref="index:about-me">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="about-me" alt=""/>
-    </file>
-    <file name="u12141-5.png" crc="3997351346" ref="index"/>
-    <file name="u12141-5_2x.png" crc="4060275050" ref="index"/>
-    <file name="u12142-4.png" crc="3794242961" ref="index"/>
-    <file name="u12142-4_2x.png" crc="488780434" ref="index"/>
-    <file name="alma.jpg" crc="4044213068" seo="true" ref="index:current-projects">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="current-projects" alt=""/>
-    </file>
-    <file name="alma_2x.jpg" crc="336228605" seo="true" ref="index:current-projects">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="current-projects" alt=""/>
-    </file>
-    <file name="stackoverflow.png" crc="69578150" seo="true" ref="index:current-projects">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="current-projects" alt=""/>
-    </file>
-    <file name="unity.png" crc="4137574176" seo="true" ref="index:current-projects">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="current-projects" alt=""/>
-    </file>
-    <file name="unity_2x.png" crc="67485951" seo="true" ref="index:current-projects">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="current-projects" alt=""/>
-    </file>
-    <file name="u12325-4.png" crc="253530794" ref="index"/>
-    <file name="u12325-4_2x.png" crc="72470239" ref="index"/>
-    <file name="photoshop.png" crc="455450974" seo="true" ref="index:current-projects">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="current-projects" alt=""/>
-    </file>
-    <file name="photoshop_2x.png" crc="79139598" seo="true" ref="index:current-projects">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="current-projects" alt=""/>
-    </file>
-    <file name="clothes.png" crc="3981448857" seo="true" ref="index:current-projects">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="current-projects" alt=""/>
-    </file>
-    <file name="clothes_2x.png" crc="405155953" seo="true" ref="index:current-projects">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="current-projects" alt=""/>
-    </file>
-    <file name="sink.png" crc="490739810" seo="true" ref="index:current-projects">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="current-projects" alt=""/>
-    </file>
-    <file name="sink_2x.png" crc="4016842886" seo="true" ref="index:current-projects">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="current-projects" alt=""/>
-    </file>
-    <file name="breakfast.png" crc="3930127465" seo="true" ref="index:current-projects">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="current-projects" alt=""/>
-    </file>
-    <file name="breakfast_2x.png" crc="51822569" seo="true" ref="index:current-projects">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="current-projects" alt=""/>
-    </file>
-    <file name="clock.png" crc="531911537" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="clock_2x.png" crc="3780403045" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="done.jpg" crc="3943328801" seo="true" ref="index:current-projects">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="current-projects" alt=""/>
-    </file>
-    <file name="u12642-4.png" crc="397973013" ref="index"/>
-    <file name="u12642-4_2x.png" crc="435221731" ref="index"/>
-    <file name="facebook.png" crc="3765894654" seo="true" ref="index:contact-me">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="contact-me" alt=""/>
-    </file>
-    <file name="facebook_2x.png" crc="3988699060" seo="true" ref="index:contact-me">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="contact-me" alt=""/>
-    </file>
-    <file name="wechat.jpg" crc="92015307" seo="true" ref="index:contact-me">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="contact-me" alt=""/>
-    </file>
-    <file name="wechat_2x.jpg" crc="4275454585" seo="true" ref="index:contact-me">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="contact-me" alt=""/>
-    </file>
-    <file name="instag.png" crc="4019739541" seo="true" ref="index:contact-me">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="contact-me" alt=""/>
-    </file>
-    <file name="instag_2x.png" crc="4249826108" seo="true" ref="index:contact-me">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="contact-me" alt=""/>
-    </file>
-    <file name="disc.jpg" crc="9106681" seo="true" ref="index:contact-me">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="contact-me" alt=""/>
-    </file>
-    <file name="disc_2x.jpg" crc="386407101" seo="true" ref="index:contact-me">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="contact-me" alt=""/>
-    </file>
-    <file name="u1202-4.png" crc="4058998701" ref="index:about-me:current-projects:contact-me"/>
-    <file name="u1202-4_2x.png" crc="4242862674" ref="index:about-me:current-projects:contact-me"/>
     <file name="mac-u1311-32.png" crc="3905776145" ref="index"/>
     <file name="mac-u1311-3_2x2.png" crc="3914082325" ref="index"/>
     <file name="launchpad-icon60x60.png" crc="246411559" seo="true" ref="index">
@@ -359,22 +267,38 @@
     <file name="python46x46_2x.png" crc="4138562864" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u1323-62.png" crc="465207200" ref="index"/>
-    <file name="u1323-6_2x2.png" crc="3814197726" ref="index"/>
-    <file name="u12141-52.png" crc="3997351346" ref="index"/>
-    <file name="u12141-5_2x2.png" crc="4060275050" ref="index"/>
-    <file name="u12142-42.png" crc="3794242961" ref="index"/>
-    <file name="u12142-4_2x2.png" crc="488780434" ref="index"/>
-    <file name="u12325-42.png" crc="253530794" ref="index"/>
-    <file name="u12325-4_2x2.png" crc="72470239" ref="index"/>
-    <file name="clock-crop-u12337.png" crc="54253066" seo="true" ref="index">
+    <file name="u1323-62.png" crc="154977341" ref="index"/>
+    <file name="u1323-6_2x2.png" crc="291441060" ref="index"/>
+    <file name="u11710-42.png" crc="126475544" ref="index"/>
+    <file name="u11710-4_2x2.png" crc="4241992172" ref="index"/>
+    <file name="u11711-42.png" crc="204951861" ref="index"/>
+    <file name="u11711-4_2x2.png" crc="104723419" ref="index"/>
+    <file name="u11712-42.png" crc="531679747" ref="index"/>
+    <file name="u11712-4_2x2.png" crc="3799903569" ref="index"/>
+    <file name="games.png" crc="3774923621" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="clock-crop-u12337_2x.png" crc="4046946205" seo="true" ref="index">
+    <file name="app.png" crc="3761440263" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u12642-42.png" crc="397973013" ref="index"/>
-    <file name="u12642-4_2x2.png" crc="435221731" ref="index"/>
+    <file name="web.png" crc="4151279593" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="web_2x.png" crc="4209565123" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="mac-u1311-33.png" crc="339314494" ref="index"/>
     <file name="mac-u1311-3_2x3.png" crc="299629315" ref="index"/>
     <file name="launchpad-icon48x48.png" crc="274155818" seo="true" ref="index">
@@ -449,89 +373,18 @@
     <file name="python37x37_2x.png" crc="4094318903" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u1323-63.png" crc="39028037" ref="index"/>
-    <file name="u1323-6_2x3.png" crc="4061163453" ref="index"/>
-    <file name="dsc_0854_meitu_28872x405.jpg" crc="509826746" seo="true" ref="index">
+    <file name="u1323-63.png" crc="3898424878" ref="index"/>
+    <file name="u1323-6_2x3.png" crc="18447191" ref="index"/>
+    <file name="u11710-43.png" crc="126475544" ref="index"/>
+    <file name="u11710-4_2x3.png" crc="4241992172" ref="index"/>
+    <file name="u11711-43.png" crc="204951861" ref="index"/>
+    <file name="u11711-4_2x3.png" crc="104723419" ref="index"/>
+    <file name="u11712-43.png" crc="531679747" ref="index"/>
+    <file name="u11712-4_2x3.png" crc="3799903569" ref="index"/>
+    <file name="github25x25.png" crc="471467956" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u12141-53.png" crc="314131381" ref="index"/>
-    <file name="u12141-5_2x3.png" crc="4154730222" ref="index"/>
-    <file name="u12142-43.png" crc="172460500" ref="index"/>
-    <file name="u12142-4_2x3.png" crc="4280085094" ref="index"/>
-    <file name="alma349x221.jpg" crc="447542174" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="alma349x221_2x.jpg" crc="4094752605" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="stackoverflow149x149.png" crc="228476739" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="unity150x150.png" crc="3808223224" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="unity150x150_2x.png" crc="67485951" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="u12325-43.png" crc="201245546" ref="index"/>
-    <file name="u12325-4_2x3.png" crc="277138842" ref="index"/>
-    <file name="photoshop163x159.png" crc="3820490752" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="photoshop163x159_2x.png" crc="3910589787" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="clothes132x132.png" crc="37638466" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="clothes132x132_2x.png" crc="341778637" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="sink164x141.png" crc="4260543583" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="sink164x141_2x.png" crc="344832487" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="breakfast116x116.png" crc="3895397713" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="breakfast116x116_2x.png" crc="4210191767" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="done463x331.jpg" crc="3767862136" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="clock-crop-u123372.png" crc="136053097" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="clock-crop-u12337_2x2.png" crc="4065581156" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="u12642-43.png" crc="3814312910" ref="index"/>
-    <file name="u12642-4_2x3.png" crc="520296777" ref="index"/>
-    <file name="facebook91x91.png" crc="3789016237" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="facebook91x91_2x.png" crc="3950364824" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="wechat90x90.jpg" crc="159235350" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="wechat90x90_2x.jpg" crc="315424655" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="instag95x95.png" crc="100930828" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="instag95x95_2x.png" crc="12867719" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="disc91x91.jpg" crc="511727099" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="disc91x91_2x.jpg" crc="386407101" seo="true" ref="index">
+    <file name="github25x25_2x.png" crc="4131022578" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="mac-u1311-34.png" crc="3863431259" ref="index"/>
@@ -540,12 +393,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="launchpad-icon36x36_2x.png" crc="3984969158" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="unity40x40.png" crc="237714178" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="unity40x40_2x.png" crc="3989155545" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="virtualbox_logo37x37.png" crc="112974230" seo="true" ref="index">
@@ -608,89 +455,24 @@
     <file name="python27x27_2x.png" crc="302789404" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u1323-64.png" crc="319250878" ref="index"/>
-    <file name="u1323-6_2x4.png" crc="499140397" ref="index"/>
-    <file name="dsc_0854_meitu_28642x298.jpg" crc="444955625" seo="true" ref="index">
+    <file name="u1323-64.png" crc="15157773" ref="index"/>
+    <file name="u1323-6_2x4.png" crc="50942065" ref="index"/>
+    <file name="unity40x40.png" crc="237714178" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u12141-54.png" crc="313331283" ref="index"/>
-    <file name="u12141-5_2x4.png" crc="4233962782" ref="index"/>
-    <file name="u12142-44.png" crc="4132065531" ref="index"/>
-    <file name="u12142-4_2x4.png" crc="4107023065" ref="index"/>
-    <file name="alma257x163.jpg" crc="175992567" seo="true" ref="index">
+    <file name="unity40x40_2x.png" crc="3989155545" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="alma257x163_2x.jpg" crc="93886566" seo="true" ref="index">
+    <file name="u11710-44.png" crc="126475544" ref="index"/>
+    <file name="u11710-4_2x4.png" crc="4241992172" ref="index"/>
+    <file name="u11712-44.png" crc="531679747" ref="index"/>
+    <file name="u11712-4_2x4.png" crc="3799903569" ref="index"/>
+    <file name="u11711-44.png" crc="204951861" ref="index"/>
+    <file name="u11711-4_2x4.png" crc="104723419" ref="index"/>
+    <file name="github19x19.png" crc="4176703832" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="stackoverflow109x109.png" crc="4065802098" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="unity110x110.png" crc="475040286" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="unity110x110_2x.png" crc="4105558602" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="u12325-44.png" crc="259818907" ref="index"/>
-    <file name="u12325-4_2x4.png" crc="3816856385" ref="index"/>
-    <file name="photoshop120x117.png" crc="132346490" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="photoshop120x117_2x.png" crc="139588805" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="breakfast85x85.png" crc="4159741440" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="breakfast85x85_2x.png" crc="3765454686" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="clothes97x97.png" crc="4099398819" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="clothes97x97_2x.png" crc="4072176552" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="sink121x104.png" crc="3787613405" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="sink121x104_2x.png" crc="3826570453" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="done340x243.jpg" crc="35322680" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="clock-crop-u123373.png" crc="4195471525" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="clock-crop-u12337_2x3.png" crc="3794441837" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="u12642-44.png" crc="4207329109" ref="index"/>
-    <file name="u12642-4_2x4.png" crc="375196273" ref="index"/>
-    <file name="facebook67x67.png" crc="174295123" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="facebook67x67_2x.png" crc="313198589" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="wechat66x66.jpg" crc="4007258263" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="wechat66x66_2x.jpg" crc="278586113" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="instag70x70.png" crc="355570838" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="instag70x70_2x.png" crc="3889625765" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="disc67x67.jpg" crc="4174393640" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="disc67x67_2x.jpg" crc="4085316087" seo="true" ref="index">
+    <file name="github19x19_2x.png" crc="356430518" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="mac-u1311-35.png" crc="4074917442" ref="index"/>
@@ -713,8 +495,8 @@
     <file name="python15x15_2x.png" crc="412373962" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u1323-65.png" crc="532789254" ref="index"/>
-    <file name="u1323-6_2x5.png" crc="4214008746" ref="index"/>
+    <file name="u1323-65.png" crc="4232559611" ref="index"/>
+    <file name="u1323-6_2x5.png" crc="94456408" ref="index"/>
     <file name="virtualbox_logo20x20.png" crc="4091182338" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -769,120 +551,105 @@
     <file name="github18x18_2x.png" crc="3996910120" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="dsc_0854_meitu_28342x159.jpg" crc="402199162" seo="true" ref="index">
+    <file name="u11710-45.png" crc="126475544" ref="index"/>
+    <file name="u11710-4_2x5.png" crc="4241992172" ref="index"/>
+    <file name="u11712-45.png" crc="531679747" ref="index"/>
+    <file name="u11712-4_2x5.png" crc="3799903569" ref="index"/>
+    <file name="u11711-45.png" crc="204951861" ref="index"/>
+    <file name="u11711-4_2x5.png" crc="104723419" ref="index"/>
+    <file name="github10x10.png" crc="480355138" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u12141-55.png" crc="396791177" ref="index"/>
-    <file name="u12141-5_2x5.png" crc="4282061637" ref="index"/>
-    <file name="u12142-45.png" crc="4122576722" ref="index"/>
-    <file name="u12142-4_2x5.png" crc="459366469" ref="index"/>
-    <file name="alma137x87.jpg" crc="3848369866" seo="true" ref="index">
+    <file name="github10x10_2x.png" crc="3769203140" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="alma137x87_2x.jpg" crc="350801465" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="stackoverflow59x59.png" crc="466307534" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="unity59x59.png" crc="3840875674" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="unity59x59_2x.png" crc="416194303" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="u12325-45.png" crc="382403654" ref="index"/>
-    <file name="u12325-4_2x5.png" crc="4204012819" ref="index"/>
-    <file name="photoshop64x63.png" crc="3759247987" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="photoshop64x63_2x.png" crc="4067910568" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="breakfast46x46.png" crc="4158979403" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="breakfast46x46_2x.png" crc="3991425769" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="clothes52x52.png" crc="67586193" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="clothes52x52_2x.png" crc="315302355" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="sink65x55.png" crc="4066678243" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="sink65x55_2x.png" crc="4018252304" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="done182x130.jpg" crc="94081629" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="clock-crop-u123374.png" crc="4225779642" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="clock-crop-u12337_2x4.png" crc="21318858" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="u12642-45.png" crc="4123812239" ref="index"/>
-    <file name="u12642-4_2x5.png" crc="227243753" ref="index"/>
-    <file name="facebook36x36.png" crc="320718650" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="facebook36x36_2x.png" crc="4135137410" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="wechat36x36.jpg" crc="3959796788" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="wechat36x36_2x.jpg" crc="4028516129" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="instag37x37.png" crc="3913391957" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="instag37x37_2x.png" crc="320880406" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="disc36x36.jpg" crc="3917032476" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="disc36x36_2x.jpg" crc="497620867" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="u4944-5.png" crc="3997351346" ref="about-me"/>
-    <file name="u4944-5_2x.png" crc="4060275050" ref="about-me"/>
-    <file name="u6071-4.png" crc="3794242961" ref="about-me"/>
-    <file name="u6071-4_2x.png" crc="488780434" ref="about-me"/>
-    <file name="dsc_0854_meitu_28815x378.jpg" crc="60956362" seo="true" ref="about-me">
+    <file name="u6071-4.png" crc="4214782093" ref="about-me"/>
+    <file name="u6071-4_2x.png" crc="4173015534" ref="about-me"/>
+    <file name="me.jpg" crc="4165322524" seo="true" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
     </file>
-    <file name="u4944-52.png" crc="3773284007" ref="about-me"/>
-    <file name="u4944-5_2x2.png" crc="493498292" ref="about-me"/>
-    <file name="u6071-42.png" crc="76864224" ref="about-me"/>
-    <file name="u6071-4_2x2.png" crc="205326754" ref="about-me"/>
-    <file name="dsc_0854_meitu_28599x278.jpg" crc="3852374167" seo="true" ref="about-me">
+    <file name="me_2x.jpg" crc="4273967414" seo="true" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
       <caption webpage="about-me" alt=""/>
     </file>
-    <file name="u4944-53.png" crc="4125884181" ref="about-me"/>
-    <file name="u4944-5_2x3.png" crc="3799268667" ref="about-me"/>
-    <file name="u6071-43.png" crc="443790485" ref="about-me"/>
-    <file name="u6071-4_2x3.png" crc="4263346661" ref="about-me"/>
-    <file name="dsc_0854_meitu_28320x149.jpg" crc="267861754" seo="true" ref="about-me">
+    <file name="u4944-5.png" crc="4021387089" ref="about-me"/>
+    <file name="u4944-5_2x.png" crc="4110741096" ref="about-me"/>
+    <file name="github32x32.png" crc="3760157884" seo="true" ref="about-me">
       <caption webpage="about-me" alt=""/>
     </file>
-    <file name="u4944-54.png" crc="331612110" ref="about-me"/>
-    <file name="u4944-5_2x4.png" crc="4148248507" ref="about-me"/>
-    <file name="u6071-44.png" crc="4153534688" ref="about-me"/>
-    <file name="u6071-4_2x4.png" crc="149875764" ref="about-me"/>
-    <file name="u7022-4.png" crc="253530794" ref="current-projects"/>
-    <file name="u7022-4_2x.png" crc="72470239" ref="current-projects"/>
-    <file name="clock-crop-u7087.png" crc="4247072072" seo="true" ref="current-projects">
+    <file name="github32x32_2x.png" crc="4082316377" seo="true" ref="about-me">
+      <caption webpage="about-me" alt=""/>
+    </file>
+    <file name="u6071-42.png" crc="340847959" ref="about-me"/>
+    <file name="u6071-4_2x2.png" crc="118273859" ref="about-me"/>
+    <file name="u4944-52.png" crc="4146318371" ref="about-me"/>
+    <file name="u4944-5_2x2.png" crc="383677759" ref="about-me"/>
+    <file name="u6071-43.png" crc="3796041098" ref="about-me"/>
+    <file name="u6071-4_2x3.png" crc="4262040923" ref="about-me"/>
+    <file name="u4944-53.png" crc="147675580" ref="about-me"/>
+    <file name="u4944-5_2x3.png" crc="4261362344" ref="about-me"/>
+    <file name="u6071-44.png" crc="4024349763" ref="about-me"/>
+    <file name="u6071-4_2x4.png" crc="3781521036" ref="about-me"/>
+    <file name="u4944-54.png" crc="3973081217" ref="about-me"/>
+    <file name="u4944-5_2x4.png" crc="4073265991" ref="about-me"/>
+    <file name="alma.jpg" crc="4044213068" seo="true" ref="current-projects">
       <caption webpage="current-projects" alt=""/>
     </file>
-    <file name="clock-crop-u7087_2x.png" crc="484720325" seo="true" ref="current-projects">
+    <file name="alma_2x.jpg" crc="336228605" seo="true" ref="current-projects">
+      <caption webpage="current-projects" alt=""/>
+    </file>
+    <file name="u7100-4.png" crc="479308617" ref="current-projects"/>
+    <file name="u7100-4_2x.png" crc="237465076" ref="current-projects"/>
+    <file name="37898321_1750110501710292_7700004994468020224_n (1).jpg" crc="213542591" seo="true" ref="current-projects">
+      <caption webpage="current-projects" alt=""/>
+    </file>
+    <file name="37898321_1750110501710292_7700004994468020224_n (1)_2x.jpg" crc="4259662969" seo="true" ref="current-projects">
+      <caption webpage="current-projects" alt=""/>
+    </file>
+    <file name="u7155-5.png" crc="200796218" ref="current-projects"/>
+    <file name="u7155-5_2x.png" crc="490556208" ref="current-projects"/>
+    <file name="u7022-4.png" crc="4271051641" ref="current-projects"/>
+    <file name="u7022-4_2x.png" crc="4249426518" ref="current-projects"/>
+    <file name="u7054-4.png" crc="269843950" ref="current-projects"/>
+    <file name="u7054-4_2x.png" crc="312391437" ref="current-projects"/>
+    <file name="photoshop.png" crc="455450974" seo="true" ref="current-projects">
+      <caption webpage="current-projects" alt=""/>
+    </file>
+    <file name="photoshop_2x.png" crc="79139598" seo="true" ref="current-projects">
+      <caption webpage="current-projects" alt=""/>
+    </file>
+    <file name="clothes.png" crc="3981448857" seo="true" ref="current-projects">
+      <caption webpage="current-projects" alt=""/>
+    </file>
+    <file name="clothes_2x.png" crc="405155953" seo="true" ref="current-projects">
+      <caption webpage="current-projects" alt=""/>
+    </file>
+    <file name="sink.png" crc="490739810" seo="true" ref="current-projects">
+      <caption webpage="current-projects" alt=""/>
+    </file>
+    <file name="sink_2x.png" crc="4016842886" seo="true" ref="current-projects">
+      <caption webpage="current-projects" alt=""/>
+    </file>
+    <file name="breakfast.png" crc="3930127465" seo="true" ref="current-projects">
+      <caption webpage="current-projects" alt=""/>
+    </file>
+    <file name="breakfast_2x.png" crc="51822569" seo="true" ref="current-projects">
+      <caption webpage="current-projects" alt=""/>
+    </file>
+    <file name="clock-crop-u7087.png" crc="54253066" seo="true" ref="current-projects">
+      <caption webpage="current-projects" alt=""/>
+    </file>
+    <file name="clock-crop-u7087_2x.png" crc="4046946205" seo="true" ref="current-projects">
+      <caption webpage="current-projects" alt=""/>
+    </file>
+    <file name="u7126-4.png" crc="436622260" ref="current-projects"/>
+    <file name="u7126-4_2x.png" crc="4019688228" ref="current-projects"/>
+    <file name="done.jpg" crc="3943328801" seo="true" ref="current-projects">
       <caption webpage="current-projects" alt=""/>
     </file>
     <file name="alma326x207.jpg" crc="486001460" seo="true" ref="current-projects">
@@ -891,17 +658,20 @@
     <file name="alma326x207_2x.jpg" crc="503095961" seo="true" ref="current-projects">
       <caption webpage="current-projects" alt=""/>
     </file>
-    <file name="stackoverflow139x139.png" crc="450548409" seo="true" ref="current-projects">
+    <file name="u7100-42.png" crc="3991604116" ref="current-projects"/>
+    <file name="u7100-4_2x2.png" crc="276165501" ref="current-projects"/>
+    <file name="37898321_1750110501710292_7700004994468020224_n (1)238x211.jpg" crc="3919814005" seo="true" ref="current-projects">
       <caption webpage="current-projects" alt=""/>
     </file>
-    <file name="unity140x140.png" crc="162185562" seo="true" ref="current-projects">
+    <file name="37898321_1750110501710292_7700004994468020224_n (1)238x211_2x.jpg" crc="402340083" seo="true" ref="current-projects">
       <caption webpage="current-projects" alt=""/>
     </file>
-    <file name="unity140x140_2x.png" crc="494369918" seo="true" ref="current-projects">
-      <caption webpage="current-projects" alt=""/>
-    </file>
-    <file name="u7022-42.png" crc="130390307" ref="current-projects"/>
-    <file name="u7022-4_2x2.png" crc="280014620" ref="current-projects"/>
+    <file name="u7155-52.png" crc="4000733602" ref="current-projects"/>
+    <file name="u7155-5_2x2.png" crc="692767" ref="current-projects"/>
+    <file name="u7022-42.png" crc="259269252" ref="current-projects"/>
+    <file name="u7022-4_2x2.png" crc="28379065" ref="current-projects"/>
+    <file name="u7054-42.png" crc="3887668593" ref="current-projects"/>
+    <file name="u7054-4_2x2.png" crc="151614280" ref="current-projects"/>
     <file name="photoshop152x149.png" crc="4192279963" seo="true" ref="current-projects">
       <caption webpage="current-projects" alt=""/>
     </file>
@@ -926,12 +696,14 @@
     <file name="breakfast108x108_2x.png" crc="3918644749" seo="true" ref="current-projects">
       <caption webpage="current-projects" alt=""/>
     </file>
-    <file name="clock-crop-u70872.png" crc="3910797597" seo="true" ref="current-projects">
+    <file name="clock-crop-u70872.png" crc="3793689849" seo="true" ref="current-projects">
       <caption webpage="current-projects" alt=""/>
     </file>
-    <file name="clock-crop-u7087_2x2.png" crc="62714240" seo="true" ref="current-projects">
+    <file name="clock-crop-u7087_2x2.png" crc="4177303625" seo="true" ref="current-projects">
       <caption webpage="current-projects" alt=""/>
     </file>
+    <file name="u7126-42.png" crc="22501607" ref="current-projects"/>
+    <file name="u7126-4_2x2.png" crc="4011340245" ref="current-projects"/>
     <file name="done432x309.jpg" crc="95546687" seo="true" ref="current-projects">
       <caption webpage="current-projects" alt=""/>
     </file>
@@ -941,17 +713,20 @@
     <file name="alma240x152_2x.jpg" crc="385714870" seo="true" ref="current-projects">
       <caption webpage="current-projects" alt=""/>
     </file>
-    <file name="stackoverflow102x102.png" crc="4010319865" seo="true" ref="current-projects">
+    <file name="u7100-43.png" crc="4226319515" ref="current-projects"/>
+    <file name="u7100-4_2x3.png" crc="140977879" ref="current-projects"/>
+    <file name="37898321_1750110501710292_7700004994468020224_n (1)175x155.jpg" crc="3885707129" seo="true" ref="current-projects">
       <caption webpage="current-projects" alt=""/>
     </file>
-    <file name="unity103x103.png" crc="4008823142" seo="true" ref="current-projects">
+    <file name="37898321_1750110501710292_7700004994468020224_n (1)175x155_2x.jpg" crc="487554844" seo="true" ref="current-projects">
       <caption webpage="current-projects" alt=""/>
     </file>
-    <file name="unity103x103_2x.png" crc="371468369" seo="true" ref="current-projects">
-      <caption webpage="current-projects" alt=""/>
-    </file>
-    <file name="u7022-43.png" crc="3905553967" ref="current-projects"/>
-    <file name="u7022-4_2x3.png" crc="148572652" ref="current-projects"/>
+    <file name="u7155-53.png" crc="370031471" ref="current-projects"/>
+    <file name="u7155-5_2x3.png" crc="3942857425" ref="current-projects"/>
+    <file name="u7022-43.png" crc="3831771924" ref="current-projects"/>
+    <file name="u7022-4_2x3.png" crc="12537772" ref="current-projects"/>
+    <file name="u7054-43.png" crc="4193896292" ref="current-projects"/>
+    <file name="u7054-4_2x3.png" crc="407353681" ref="current-projects"/>
     <file name="photoshop112x109.png" crc="3954908475" seo="true" ref="current-projects">
       <caption webpage="current-projects" alt=""/>
     </file>
@@ -964,10 +739,10 @@
     <file name="breakfast80x80_2x.png" crc="4210579830" seo="true" ref="current-projects">
       <caption webpage="current-projects" alt=""/>
     </file>
-    <file name="clock-crop-u70873.png" crc="443920791" seo="true" ref="current-projects">
+    <file name="clock-crop-u70873.png" crc="4019431706" seo="true" ref="current-projects">
       <caption webpage="current-projects" alt=""/>
     </file>
-    <file name="clock-crop-u7087_2x3.png" crc="4030988593" seo="true" ref="current-projects">
+    <file name="clock-crop-u7087_2x3.png" crc="3733848" seo="true" ref="current-projects">
       <caption webpage="current-projects" alt=""/>
     </file>
     <file name="clothes91x91.png" crc="4118930883" seo="true" ref="current-projects">
@@ -982,6 +757,8 @@
     <file name="sink113x97_2x.png" crc="3823568151" seo="true" ref="current-projects">
       <caption webpage="current-projects" alt=""/>
     </file>
+    <file name="u7126-43.png" crc="4186068196" ref="current-projects"/>
+    <file name="u7126-4_2x3.png" crc="377142287" ref="current-projects"/>
     <file name="done318x227.jpg" crc="4175516305" seo="true" ref="current-projects">
       <caption webpage="current-projects" alt=""/>
     </file>
@@ -991,17 +768,20 @@
     <file name="alma128x81_2x.jpg" crc="381766622" seo="true" ref="current-projects">
       <caption webpage="current-projects" alt=""/>
     </file>
-    <file name="stackoverflow55x55.png" crc="3887409632" seo="true" ref="current-projects">
+    <file name="u7100-44.png" crc="3779084184" ref="current-projects"/>
+    <file name="u7100-4_2x4.png" crc="12211382" ref="current-projects"/>
+    <file name="37898321_1750110501710292_7700004994468020224_n (1)94x83.jpg" crc="4022035401" seo="true" ref="current-projects">
       <caption webpage="current-projects" alt=""/>
     </file>
-    <file name="unity55x55.png" crc="3844886450" seo="true" ref="current-projects">
+    <file name="37898321_1750110501710292_7700004994468020224_n (1)94x83_2x.jpg" crc="252801990" seo="true" ref="current-projects">
       <caption webpage="current-projects" alt=""/>
     </file>
-    <file name="unity55x55_2x.png" crc="3759008172" seo="true" ref="current-projects">
-      <caption webpage="current-projects" alt=""/>
-    </file>
-    <file name="u7022-44.png" crc="421341575" ref="current-projects"/>
-    <file name="u7022-4_2x4.png" crc="3802721689" ref="current-projects"/>
+    <file name="u7155-54.png" crc="7482455" ref="current-projects"/>
+    <file name="u7155-5_2x4.png" crc="464676154" ref="current-projects"/>
+    <file name="u7022-44.png" crc="4210980767" ref="current-projects"/>
+    <file name="u7022-4_2x4.png" crc="265182690" ref="current-projects"/>
+    <file name="u7054-44.png" crc="3992321439" ref="current-projects"/>
+    <file name="u7054-4_2x4.png" crc="362738969" ref="current-projects"/>
     <file name="photoshop60x59.png" crc="4213325848" seo="true" ref="current-projects">
       <caption webpage="current-projects" alt=""/>
     </file>
@@ -1017,7 +797,7 @@
     <file name="clock-crop-u70874.png" crc="3959235993" seo="true" ref="current-projects">
       <caption webpage="current-projects" alt=""/>
     </file>
-    <file name="clock-crop-u7087_2x4.png" crc="4221732324" seo="true" ref="current-projects">
+    <file name="clock-crop-u7087_2x4.png" crc="26359217" seo="true" ref="current-projects">
       <caption webpage="current-projects" alt=""/>
     </file>
     <file name="clothes49x49.png" crc="3895846678" seo="true" ref="current-projects">
@@ -1032,13 +812,55 @@
     <file name="sink60x52_2x.png" crc="3787613405" seo="true" ref="current-projects">
       <caption webpage="current-projects" alt=""/>
     </file>
+    <file name="u7126-44.png" crc="3937421859" ref="current-projects"/>
+    <file name="u7126-4_2x4.png" crc="250299509" ref="current-projects"/>
     <file name="done170x121.jpg" crc="466387112" seo="true" ref="current-projects">
       <caption webpage="current-projects" alt=""/>
     </file>
-    <file name="u6068-4.png" crc="397973013" ref="contact-me"/>
-    <file name="u6068-4_2x.png" crc="435221731" ref="contact-me"/>
-    <file name="u6068-42.png" crc="4270860133" ref="contact-me"/>
-    <file name="u6068-4_2x2.png" crc="316833732" ref="contact-me"/>
+    <file name="u6068-4.png" crc="3850520391" ref="contact-me"/>
+    <file name="u6068-4_2x.png" crc="3886408606" ref="contact-me"/>
+    <file name="facebook.png" crc="3765894654" seo="true" ref="contact-me">
+      <caption webpage="contact-me" alt=""/>
+    </file>
+    <file name="facebook_2x.png" crc="3988699060" seo="true" ref="contact-me">
+      <caption webpage="contact-me" alt=""/>
+    </file>
+    <file name="wechat.jpg" crc="92015307" seo="true" ref="contact-me">
+      <caption webpage="contact-me" alt=""/>
+    </file>
+    <file name="wechat_2x.jpg" crc="4275454585" seo="true" ref="contact-me">
+      <caption webpage="contact-me" alt=""/>
+    </file>
+    <file name="instag.png" crc="4019739541" seo="true" ref="contact-me">
+      <caption webpage="contact-me" alt=""/>
+    </file>
+    <file name="instag_2x.png" crc="4249826108" seo="true" ref="contact-me">
+      <caption webpage="contact-me" alt=""/>
+    </file>
+    <file name="disc.jpg" crc="9106681" seo="true" ref="contact-me">
+      <caption webpage="contact-me" alt=""/>
+    </file>
+    <file name="disc_2x.jpg" crc="386407101" seo="true" ref="contact-me">
+      <caption webpage="contact-me" alt=""/>
+    </file>
+    <file name="u5962.png" crc="194870791" ref="contact-me"/>
+    <file name="u5962_2x.png" crc="3947555958" ref="contact-me"/>
+    <file name="u5962-ferr.png" crc="4277798945" ref="contact-me"/>
+    <file name="u5962-ferr_2x.png" crc="280121107" ref="contact-me"/>
+    <file name="u5955.png" crc="3894971565" ref="contact-me"/>
+    <file name="u5955_2x.png" crc="310904292" ref="contact-me"/>
+    <file name="u5955-ferr.png" crc="18241299" ref="contact-me"/>
+    <file name="u5955-ferr_2x.png" crc="194371312" ref="contact-me"/>
+    <file name="u5968.png" crc="4208384642" ref="contact-me"/>
+    <file name="u5968_2x.png" crc="61324570" ref="contact-me"/>
+    <file name="u5968-ferr.png" crc="19357325" ref="contact-me"/>
+    <file name="u5968-ferr_2x.png" crc="4242638202" ref="contact-me"/>
+    <file name="u5958.png" crc="4215386988" ref="contact-me"/>
+    <file name="u5958_2x.png" crc="4152268877" ref="contact-me"/>
+    <file name="u5958-r.png" crc="4053288948" ref="contact-me"/>
+    <file name="u5958-r_2x.png" crc="3826977110" ref="contact-me"/>
+    <file name="u6068-42.png" crc="4200360102" ref="contact-me"/>
+    <file name="u6068-4_2x2.png" crc="3763597175" ref="contact-me"/>
     <file name="facebook85x85.png" crc="3879891913" seo="true" ref="contact-me">
       <caption webpage="contact-me" alt=""/>
     </file>
@@ -1063,8 +885,24 @@
     <file name="disc85x85_2x.jpg" crc="386407101" seo="true" ref="contact-me">
       <caption webpage="contact-me" alt=""/>
     </file>
-    <file name="u6068-43.png" crc="4043406895" ref="contact-me"/>
-    <file name="u6068-4_2x3.png" crc="3969543066" ref="contact-me"/>
+    <file name="u59622.png" crc="3935226887" ref="contact-me"/>
+    <file name="u5962_2x2.png" crc="159202668" ref="contact-me"/>
+    <file name="u5962-ferr2.png" crc="314335294" ref="contact-me"/>
+    <file name="u5962-ferr_2x2.png" crc="393134044" ref="contact-me"/>
+    <file name="u59552.png" crc="412392228" ref="contact-me"/>
+    <file name="u5955_2x2.png" crc="289476281" ref="contact-me"/>
+    <file name="u5955-ferr2.png" crc="330148503" ref="contact-me"/>
+    <file name="u5955-ferr_2x2.png" crc="4267694929" ref="contact-me"/>
+    <file name="u59682.png" crc="189562213" ref="contact-me"/>
+    <file name="u5968_2x2.png" crc="409318182" ref="contact-me"/>
+    <file name="u5968-ferr2.png" crc="3946942110" ref="contact-me"/>
+    <file name="u5968-ferr_2x2.png" crc="316129622" ref="contact-me"/>
+    <file name="u59582.png" crc="195926131" ref="contact-me"/>
+    <file name="u5958_2x2.png" crc="3898664900" ref="contact-me"/>
+    <file name="u5958-r2.png" crc="4194914108" ref="contact-me"/>
+    <file name="u5958-r_2x2.png" crc="4189375064" ref="contact-me"/>
+    <file name="u6068-43.png" crc="460971387" ref="contact-me"/>
+    <file name="u6068-4_2x3.png" crc="414340231" ref="contact-me"/>
     <file name="facebook63x63.png" crc="3804708624" seo="true" ref="contact-me">
       <caption webpage="contact-me" alt=""/>
     </file>
@@ -1089,8 +927,24 @@
     <file name="disc62x62_2x.jpg" crc="8168759" seo="true" ref="contact-me">
       <caption webpage="contact-me" alt=""/>
     </file>
-    <file name="u6068-44.png" crc="4083367572" ref="contact-me"/>
-    <file name="u6068-4_2x4.png" crc="3890703121" ref="contact-me"/>
+    <file name="u59623.png" crc="337662791" ref="contact-me"/>
+    <file name="u5962_2x3.png" crc="378806878" ref="contact-me"/>
+    <file name="u5962-ferr3.png" crc="106877897" ref="contact-me"/>
+    <file name="u5962-ferr_2x3.png" crc="4227477224" ref="contact-me"/>
+    <file name="u59553.png" crc="4188290512" ref="contact-me"/>
+    <file name="u5955_2x3.png" crc="17841118" ref="contact-me"/>
+    <file name="u5955-ferr3.png" crc="4129296292" ref="contact-me"/>
+    <file name="u5955-ferr_2x3.png" crc="21908108" ref="contact-me"/>
+    <file name="u59683.png" crc="3770425244" ref="contact-me"/>
+    <file name="u5968_2x3.png" crc="25691202" ref="contact-me"/>
+    <file name="u5968-ferr3.png" crc="508341688" ref="contact-me"/>
+    <file name="u5968-ferr_2x3.png" crc="34304495" ref="contact-me"/>
+    <file name="u59583.png" crc="488008772" ref="contact-me"/>
+    <file name="u5958_2x3.png" crc="308698464" ref="contact-me"/>
+    <file name="u5958-r3.png" crc="4262512454" ref="contact-me"/>
+    <file name="u5958-r_2x3.png" crc="231078992" ref="contact-me"/>
+    <file name="u6068-44.png" crc="3794363296" ref="contact-me"/>
+    <file name="u6068-4_2x4.png" crc="3837760068" ref="contact-me"/>
     <file name="facebook34x34.png" crc="4212631570" seo="true" ref="contact-me">
       <caption webpage="contact-me" alt=""/>
     </file>
@@ -1115,9 +969,74 @@
     <file name="disc33x33_2x.jpg" crc="4174393640" seo="true" ref="contact-me">
       <caption webpage="contact-me" alt=""/>
     </file>
+    <file name="u59624.png" crc="4037131201" ref="contact-me"/>
+    <file name="u5962_2x4.png" crc="262272744" ref="contact-me"/>
+    <file name="u5962-ferr4.png" crc="3965379356" ref="contact-me"/>
+    <file name="u5962-ferr_2x4.png" crc="38138363" ref="contact-me"/>
+    <file name="u59554.png" crc="3778269474" ref="contact-me"/>
+    <file name="u5955_2x4.png" crc="37425630" ref="contact-me"/>
+    <file name="u5955-ferr4.png" crc="511965509" ref="contact-me"/>
+    <file name="u5955-ferr_2x4.png" crc="3857818185" ref="contact-me"/>
+    <file name="u59684.png" crc="129019180" ref="contact-me"/>
+    <file name="u5968_2x4.png" crc="3829708364" ref="contact-me"/>
+    <file name="u5968-ferr4.png" crc="167898087" ref="contact-me"/>
+    <file name="u5968-ferr_2x4.png" crc="4025990594" ref="contact-me"/>
+    <file name="u59584.png" crc="248477132" ref="contact-me"/>
+    <file name="u5958_2x4.png" crc="36053699" ref="contact-me"/>
+    <file name="u5958-r4.png" crc="482188903" ref="contact-me"/>
+    <file name="u5958-r_2x4.png" crc="443704083" ref="contact-me"/>
+    <file name="resume-2018-1.jpg" crc="41355798" seo="true" ref="resume">
+      <caption webpage="resume" alt=""/>
+    </file>
+    <file name="resume-2018-1_2x.jpg" crc="239969418" seo="true" ref="resume">
+      <caption webpage="resume" alt=""/>
+    </file>
+    <file name="resume-2018-2.jpg" crc="4197018606" seo="true" ref="resume">
+      <caption webpage="resume" alt=""/>
+    </file>
+    <file name="resume-2018-2_2x.jpg" crc="3986361693" seo="true" ref="resume">
+      <caption webpage="resume" alt=""/>
+    </file>
+    <file name="resume-2018-1589x763.jpg" crc="458165665" seo="true" ref="resume">
+      <caption webpage="resume" alt=""/>
+    </file>
+    <file name="resume-2018-1589x763_2x.jpg" crc="186238980" seo="true" ref="resume">
+      <caption webpage="resume" alt=""/>
+    </file>
+    <file name="resume-2018-2589x763.jpg" crc="15833476" seo="true" ref="resume">
+      <caption webpage="resume" alt=""/>
+    </file>
+    <file name="resume-2018-2589x763_2x.jpg" crc="382332716" seo="true" ref="resume">
+      <caption webpage="resume" alt=""/>
+    </file>
+    <file name="resume-2018-1434x561.jpg" crc="4144221614" seo="true" ref="resume">
+      <caption webpage="resume" alt=""/>
+    </file>
+    <file name="resume-2018-1434x561_2x.jpg" crc="4234629993" seo="true" ref="resume">
+      <caption webpage="resume" alt=""/>
+    </file>
+    <file name="resume-2018-2434x561.jpg" crc="445445066" seo="true" ref="resume">
+      <caption webpage="resume" alt=""/>
+    </file>
+    <file name="resume-2018-2434x561_2x.jpg" crc="49485973" seo="true" ref="resume">
+      <caption webpage="resume" alt=""/>
+    </file>
+    <file name="resume-2018-1231x299.jpg" crc="420146653" seo="true" ref="resume">
+      <caption webpage="resume" alt=""/>
+    </file>
+    <file name="resume-2018-1231x299_2x.jpg" crc="4050667584" seo="true" ref="resume">
+      <caption webpage="resume" alt=""/>
+    </file>
+    <file name="resume-2018-2231x299.jpg" crc="222901831" seo="true" ref="resume">
+      <caption webpage="resume" alt=""/>
+    </file>
+    <file name="resume-2018-2231x299_2x.jpg" crc="418556106" seo="true" ref="resume">
+      <caption webpage="resume" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3816536884" seo="true" mt="1532319744339" redirect="true"/>
-  <file name="about-me.html" crc="345610137" seo="true" mt="1532314858283" redirect="true"/>
-  <file name="current-projects.html" crc="341749779" seo="true" mt="1532319507326" redirect="true"/>
-  <file name="contact-me.html" crc="291398499" seo="true" mt="1535244502564" redirect="true"/>
+  <file name="index.html" crc="84012606" seo="true" mt="1534136115520" redirect="true"/>
+  <file name="about-me.html" crc="3983249285" seo="true" mt="1534136115520" redirect="true"/>
+  <file name="current-projects.html" crc="226933431" seo="true" mt="1534136115520" redirect="true"/>
+  <file name="contact-me.html" crc="357898061" seo="true" mt="1534136115520" redirect="true"/>
+  <file name="resume.html" crc="3906281474" seo="true" mt="1534136367663" redirect="true"/>
 </manifest>

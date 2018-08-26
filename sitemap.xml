@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://www.sfu.ca/~yza366/iat102/index.html</loc>
-    <lastmod>2018-07-22</lastmod>
+    <lastmod>2018-08-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -18,10 +18,10 @@
       <image:loc>http://www.sfu.ca/~yza366/iat102/images/launchpad-icon_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/unity71x71.png</image:loc>
+      <image:loc>http://www.sfu.ca/~yza366/iat102/images/unity.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/unity71x71_2x.png</image:loc>
+      <image:loc>http://www.sfu.ca/~yza366/iat102/images/unity_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.sfu.ca/~yza366/iat102/images/virtualbox_logo.png</image:loc>
@@ -84,85 +84,22 @@
       <image:loc>http://www.sfu.ca/~yza366/iat102/images/python_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/me.jpg</image:loc>
+      <image:loc>http://www.sfu.ca/~yza366/iat102/images/games94x95.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/me_2x.jpg</image:loc>
+      <image:loc>http://www.sfu.ca/~yza366/iat102/images/app91x91.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/dsc_0854_meitu_28.jpg</image:loc>
+      <image:loc>http://www.sfu.ca/~yza366/iat102/images/web90x90.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/alma.jpg</image:loc>
+      <image:loc>http://www.sfu.ca/~yza366/iat102/images/web90x90_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/alma_2x.jpg</image:loc>
+      <image:loc>http://www.sfu.ca/~yza366/iat102/images/github30x30.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/stackoverflow.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/unity.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/unity_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/photoshop.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/photoshop_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/clothes.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/clothes_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/sink.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/sink_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/breakfast.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/breakfast_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/clock.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/clock_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/done.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/facebook.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/facebook_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/wechat.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/wechat_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/instag.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/instag_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/disc.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/disc_2x.jpg</image:loc>
+      <image:loc>http://www.sfu.ca/~yza366/iat102/images/github30x30_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.sfu.ca/~yza366/iat102/images/launchpad-icon60x60.png</image:loc>
@@ -237,10 +174,16 @@
       <image:loc>http://www.sfu.ca/~yza366/iat102/images/python46x46_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/clock-crop-u12337.png</image:loc>
+      <image:loc>http://www.sfu.ca/~yza366/iat102/images/games.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/clock-crop-u12337_2x.png</image:loc>
+      <image:loc>http://www.sfu.ca/~yza366/iat102/images/app.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.sfu.ca/~yza366/iat102/images/web.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.sfu.ca/~yza366/iat102/images/web_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.sfu.ca/~yza366/iat102/images/launchpad-icon48x48.png</image:loc>
@@ -315,91 +258,16 @@
       <image:loc>http://www.sfu.ca/~yza366/iat102/images/python37x37_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/dsc_0854_meitu_28872x405.jpg</image:loc>
+      <image:loc>http://www.sfu.ca/~yza366/iat102/images/github25x25.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/alma349x221.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/alma349x221_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/stackoverflow149x149.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/unity150x150.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/unity150x150_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/photoshop163x159.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/photoshop163x159_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/clothes132x132.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/clothes132x132_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/sink164x141.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/sink164x141_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/breakfast116x116.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/breakfast116x116_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/done463x331.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/clock-crop-u123372.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/clock-crop-u12337_2x2.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/facebook91x91.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/facebook91x91_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/wechat90x90.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/wechat90x90_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/instag95x95.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/instag95x95_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/disc91x91.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/disc91x91_2x.jpg</image:loc>
+      <image:loc>http://www.sfu.ca/~yza366/iat102/images/github25x25_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.sfu.ca/~yza366/iat102/images/launchpad-icon36x36.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.sfu.ca/~yza366/iat102/images/launchpad-icon36x36_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/unity40x40.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/unity40x40_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.sfu.ca/~yza366/iat102/images/virtualbox_logo37x37.png</image:loc>
@@ -462,79 +330,16 @@
       <image:loc>http://www.sfu.ca/~yza366/iat102/images/python27x27_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/dsc_0854_meitu_28642x298.jpg</image:loc>
+      <image:loc>http://www.sfu.ca/~yza366/iat102/images/unity40x40.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/alma257x163.jpg</image:loc>
+      <image:loc>http://www.sfu.ca/~yza366/iat102/images/unity40x40_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/alma257x163_2x.jpg</image:loc>
+      <image:loc>http://www.sfu.ca/~yza366/iat102/images/github19x19.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/stackoverflow109x109.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/unity110x110.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/unity110x110_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/photoshop120x117.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/photoshop120x117_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/breakfast85x85.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/breakfast85x85_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/clothes97x97.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/clothes97x97_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/sink121x104.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/sink121x104_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/done340x243.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/clock-crop-u123373.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/clock-crop-u12337_2x3.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/facebook67x67.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/facebook67x67_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/wechat66x66.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/wechat66x66_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/instag70x70.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/instag70x70_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/disc67x67.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/disc67x67_2x.jpg</image:loc>
+      <image:loc>http://www.sfu.ca/~yza366/iat102/images/github19x19_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.sfu.ca/~yza366/iat102/images/launchpad-icon19x19.png</image:loc>
@@ -609,102 +414,33 @@
       <image:loc>http://www.sfu.ca/~yza366/iat102/images/github18x18_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/dsc_0854_meitu_28342x159.jpg</image:loc>
+      <image:loc>http://www.sfu.ca/~yza366/iat102/images/github10x10.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/alma137x87.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/alma137x87_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/stackoverflow59x59.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/unity59x59.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/unity59x59_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/photoshop64x63.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/photoshop64x63_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/breakfast46x46.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/breakfast46x46_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/clothes52x52.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/clothes52x52_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/sink65x55.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/sink65x55_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/done182x130.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/clock-crop-u123374.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/clock-crop-u12337_2x4.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/facebook36x36.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/facebook36x36_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/wechat36x36.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/wechat36x36_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/instag37x37.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/instag37x37_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/disc36x36.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/disc36x36_2x.jpg</image:loc>
+      <image:loc>http://www.sfu.ca/~yza366/iat102/images/github10x10_2x.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://www.sfu.ca/~yza366/iat102/about-me.html</loc>
-    <lastmod>2018-07-22</lastmod>
+    <lastmod>2018-08-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/dsc_0854_meitu_28.jpg</image:loc>
+      <image:loc>http://www.sfu.ca/~yza366/iat102/images/me.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/dsc_0854_meitu_28815x378.jpg</image:loc>
+      <image:loc>http://www.sfu.ca/~yza366/iat102/images/me_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/dsc_0854_meitu_28599x278.jpg</image:loc>
+      <image:loc>http://www.sfu.ca/~yza366/iat102/images/github32x32.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/dsc_0854_meitu_28320x149.jpg</image:loc>
+      <image:loc>http://www.sfu.ca/~yza366/iat102/images/github32x32_2x.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://www.sfu.ca/~yza366/iat102/current-projects.html</loc>
-    <lastmod>2018-07-22</lastmod>
+    <lastmod>2018-08-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -714,13 +450,10 @@
       <image:loc>http://www.sfu.ca/~yza366/iat102/images/alma_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/stackoverflow.png</image:loc>
+      <image:loc>http://www.sfu.ca/~yza366/iat102/images/37898321_1750110501710292_7700004994468020224_n%20(1).jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/unity.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/unity_2x.png</image:loc>
+      <image:loc>http://www.sfu.ca/~yza366/iat102/images/37898321_1750110501710292_7700004994468020224_n%20(1)_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.sfu.ca/~yza366/iat102/images/photoshop.png</image:loc>
@@ -747,13 +480,13 @@
       <image:loc>http://www.sfu.ca/~yza366/iat102/images/breakfast_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/done.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.sfu.ca/~yza366/iat102/images/clock-crop-u7087.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.sfu.ca/~yza366/iat102/images/clock-crop-u7087_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.sfu.ca/~yza366/iat102/images/done.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.sfu.ca/~yza366/iat102/images/alma326x207.jpg</image:loc>
@@ -762,13 +495,10 @@
       <image:loc>http://www.sfu.ca/~yza366/iat102/images/alma326x207_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/stackoverflow139x139.png</image:loc>
+      <image:loc>http://www.sfu.ca/~yza366/iat102/images/37898321_1750110501710292_7700004994468020224_n%20(1)238x211.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/unity140x140.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/unity140x140_2x.png</image:loc>
+      <image:loc>http://www.sfu.ca/~yza366/iat102/images/37898321_1750110501710292_7700004994468020224_n%20(1)238x211_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.sfu.ca/~yza366/iat102/images/photoshop152x149.png</image:loc>
@@ -810,13 +540,10 @@
       <image:loc>http://www.sfu.ca/~yza366/iat102/images/alma240x152_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/stackoverflow102x102.png</image:loc>
+      <image:loc>http://www.sfu.ca/~yza366/iat102/images/37898321_1750110501710292_7700004994468020224_n%20(1)175x155.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/unity103x103.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/unity103x103_2x.png</image:loc>
+      <image:loc>http://www.sfu.ca/~yza366/iat102/images/37898321_1750110501710292_7700004994468020224_n%20(1)175x155_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.sfu.ca/~yza366/iat102/images/photoshop112x109.png</image:loc>
@@ -858,13 +585,10 @@
       <image:loc>http://www.sfu.ca/~yza366/iat102/images/alma128x81_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/stackoverflow55x55.png</image:loc>
+      <image:loc>http://www.sfu.ca/~yza366/iat102/images/37898321_1750110501710292_7700004994468020224_n%20(1)94x83.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/unity55x55.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.sfu.ca/~yza366/iat102/images/unity55x55_2x.png</image:loc>
+      <image:loc>http://www.sfu.ca/~yza366/iat102/images/37898321_1750110501710292_7700004994468020224_n%20(1)94x83_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.sfu.ca/~yza366/iat102/images/photoshop60x59.png</image:loc>
@@ -902,7 +626,7 @@
   </url>
   <url>
     <loc>http://www.sfu.ca/~yza366/iat102/contact-me.html</loc>
-    <lastmod>2018-08-25</lastmod>
+    <lastmod>2018-08-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1000,6 +724,60 @@
     </image:image>
     <image:image>
       <image:loc>http://www.sfu.ca/~yza366/iat102/images/disc33x33_2x.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://www.sfu.ca/~yza366/iat102/resume.html</loc>
+    <lastmod>2018-08-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.sfu.ca/~yza366/iat102/images/resume-2018-1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.sfu.ca/~yza366/iat102/images/resume-2018-1_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.sfu.ca/~yza366/iat102/images/resume-2018-2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.sfu.ca/~yza366/iat102/images/resume-2018-2_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.sfu.ca/~yza366/iat102/images/resume-2018-1589x763.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.sfu.ca/~yza366/iat102/images/resume-2018-1589x763_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.sfu.ca/~yza366/iat102/images/resume-2018-2589x763.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.sfu.ca/~yza366/iat102/images/resume-2018-2589x763_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.sfu.ca/~yza366/iat102/images/resume-2018-1434x561.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.sfu.ca/~yza366/iat102/images/resume-2018-1434x561_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.sfu.ca/~yza366/iat102/images/resume-2018-2434x561.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.sfu.ca/~yza366/iat102/images/resume-2018-2434x561_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.sfu.ca/~yza366/iat102/images/resume-2018-1231x299.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.sfu.ca/~yza366/iat102/images/resume-2018-1231x299_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.sfu.ca/~yza366/iat102/images/resume-2018-2231x299.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.sfu.ca/~yza366/iat102/images/resume-2018-2231x299_2x.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
